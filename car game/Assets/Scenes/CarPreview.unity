@@ -3119,8 +3119,8 @@ MonoBehaviour:
   spawnPoint: {fileID: 974339339}
   previewCars:
   - {fileID: 642287924342879162, guid: f9f267d40dad7cf458a3c30a1f0be9c6, type: 3}
-  - {fileID: 3294564219125457607, guid: 05758a94a0574437ca5554cdf50922af, type: 3}
-  - {fileID: 5621057211259534690, guid: e00296de49e2fbe4c9cbbfb621439762, type: 3}
+  - {fileID: 3311311803080157842, guid: 763aaf23e4e7dd446ab1171e87a54773, type: 3}
+  - {fileID: 642287924342879162, guid: cef39e1bc7c5e68ccad7e74580e0a653, type: 3}
   - {fileID: 642287924342879162, guid: 603b7d7829e1a1f3e8739ddcf1e91539, type: 3}
 --- !u!4 &1928019870
 Transform:

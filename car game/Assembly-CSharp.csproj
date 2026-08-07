@@ -43,7 +43,7 @@
     <UnityVersion>6000.4.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="/home/ikram/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.2.2/Analyzers/Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="/home/ikram/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.3.1/Analyzers/Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="/home/ikram/Unity/Hub/Editor/6000.4.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/home/ikram/Unity/Hub/Editor/6000.4.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="/home/ikram/Unity/Hub/Editor/6000.4.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
@@ -88,8 +88,12 @@
     <Compile Include="Assets/Scripts/LevelLoader.cs" />
     <Compile Include="Assets/Scripts/RotatePreview.cs" />
     <Compile Include="Assets/HYPER SPORT/SR/Controllers/CameraController.cs" />
+    <Compile Include="Assets/Scripts/HammerRotation.cs" />
     <Compile Include="Assets/Scripts/CarSpawner1.cs" />
     <Compile Include="Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs" />
+    <Compile Include="Assets/Scripts/Spherecode.cs" />
+    <Compile Include="Assets/Scripts/MusicManager.cs" />
+    <Compile Include="Assets/Scripts/HammerPovit.cs" />
     <Compile Include="Assets/Scripts/UI/CarSelectionManager.cs" />
     <Compile Include="Assets/Scripts/LoadingScreenController.cs" />
     <Compile Include="Assets/Scripts/Speedometer.cs" />

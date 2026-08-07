@@ -309,8 +309,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 99a5e9b214613b04c9f07089dac4e683, type: 2}
-  - {fileID: 2100000, guid: 99a5e9b214613b04c9f07089dac4e683, type: 2}
+  - {fileID: 2100000, guid: 4bca3a8f6184b834cb859a615dba1023, type: 2}
+  - {fileID: 2100000, guid: ab035d7682921704a9015ac353311d57, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -395,6 +395,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2792218741957914664}
+  - component: {fileID: 2783754545163026753}
   m_Layer: 0
   m_Name: Free Racing Car- preview
   m_TagString: Untagged
@@ -420,6 +421,19 @@ Transform:
   - {fileID: 7781842844044976076}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -93.715, z: 0}
+--- !u!114 &2783754545163026753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3311311803080157842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c898cfa7961ee498ddfe7bcc73fe84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RotatePreview
+  rotationSpeed: 30
 --- !u!1 &3962000127133956386
 GameObject:
   m_ObjectHideFlags: 0
